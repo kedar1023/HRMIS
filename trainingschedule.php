@@ -16,12 +16,8 @@
     <link rel="stylesheet" href="styles.css">
 
 </head>
-
 <style>
-
 </style>
-
-
 <body>
 <?php
     include 'adminnavbar.php';
