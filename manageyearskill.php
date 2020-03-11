@@ -18,10 +18,7 @@
 </head>
 
 <style>
-
 </style>
-
-
 <body>
 <?php
     include 'adminnavbar.php';
