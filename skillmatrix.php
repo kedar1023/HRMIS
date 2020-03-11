@@ -19,8 +19,6 @@
 <?php
     include 'hodnavbar.php';
 ?>    <div  style="margin-bottom: 100px; border: 1px solid lightblue; padding: 50px;">
-
-
         <div class="row justify-content-md-start">
         
             <div class="col-md-8">
